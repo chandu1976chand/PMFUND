@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Prime Minister's National Relief Fund</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://pmnrf.gov.in/assets/img/favicon.ico" rel="icon" type="image/ico" />
+<meta name="csrf-name" content="li_token">
+<meta name="csrf-token" content="b518d03a0e3ffda79c4e7ab40aa9be20">
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom" class="content-loading en">
+
+<div id="wrapper">
+
+      <nav class="navbar navbar-custom fixed-top" role="navigation">
+      <div class="top-area">
+          <div class="container">
+              <div class="row">
+                  <div class="col-sm-4 col-md-4">
+                  <p class="bold text-left"></p>
+                  </div>
+                  <div class="col-sm-8 col-md-8">
+                      <ul class="nav justify-content-end" style="font-size:9pt">
+                          <li class="nav-item"><a href="#content" class="nav-link" title="Skip to main content">Skip to main content </a></li>
+                          <li class="nav-item"><a href="" class="nav-link" title="Smaller font size" class="small decrease">A-</a></li>
+                          <li class="nav-item"><a href="" class="nav-link" title="Normal font size" class="medium">A</a></li>
+                          <li class="nav-item"><a href="" class="nav-link"  title="Bigger font size" class="large increase">A+</a></li>
+                          <li class="nav-item"><select onchange="javascript:window.location.href='https://pmnrf.gov.in/en/web/switchLang/'+this.value;" style="color:#333">
+                              <option value="en" selected="selected">English</option>
+                              <option value="hi" >Hindi</option>
+                          </select></li>
+                      </ul> 
+                  </div>
+              </div>
+          </div>
+      </div>
+	</nav>
+<nav class="navbar navbar-custom navbar-expand-lg navbar-light fixed-top bg-light navigation">
+		<div class="container">	          
+		  <a class="navbar-brand" href="https://pmnrf.gov.in/en">
+			   <img src="https://pmnrf.gov.in/assets/img/emblem.jpg" alt="PMNRF"  height="50" />
+			   <span>PMNRF</span>
+			   <img src="https://pmnrf.gov.in/assets/img/g20-logo.jpeg" alt="G20"  height="50" />			  
+		  </a>
+		  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			  <span class="navbar-toggler-icon"></span>
+		  </button>          
+  			
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+						<ul class="nav navbar-nav">
+					
+								
+								<li class="nav-item dropdown">
+					<a href="https://pmnrf.gov.in/en/about" class="nav-link dropdown-toggle" id="about" role="button" data-bs-toggle="dropdown" aria-expanded="false">About PMNRF<b class="caret"></b></a>
+											<ul class="dropdown-menu" aria-labelledby="about">
+														<li><a href="https://pmnrf.gov.in/en/about" class="dropdown-item">About PMNRF</a></li>
+																				
+								<li><a href="https://pmnrf.gov.in/en/about/ex-gratia" class="dropdown-item">Ex-Gratia</a></li>
+													
+								<li><a href="https://pmnrf.gov.in/en/about/private-hospital-lists" class="dropdown-item">Empanelled Private Hospitals</a></li>
+													
+								<li><a href="https://pmnrf.gov.in/en/about/grant-to-acid-attack-victims" class="dropdown-item">Grant To Acid Attack Victims</a></li>
+													
+								<li><a href="https://pmnrf.gov.in/en/about/projects-in-progress" class="dropdown-item">Projects in Progress</a></li>
+													</ul>
+									</li>
+								
+								<li class="nav-item ">
+					<a href="https://pmnrf.gov.in/en/online-donation" class="nav-link">Donate Online</a>
+									</li>
+								
+								<li class="nav-item ">
+					<a href="https://pmnrf.gov.in/en/transaction-history" class="nav-link">Transaction History</a>
+									</li>
+								
+								<li class="nav-item ">
+					<a href="https://pmnrf.gov.in/en/downloads" class="nav-link">Downloads</a>
+									</li>
+								
+								<li class="nav-item dropdown">
+					<a href="https://pmnrf.gov.in/en/faqs" class="nav-link dropdown-toggle" id="faqs" role="button" data-bs-toggle="dropdown" aria-expanded="false">FAQS<b class="caret"></b></a>
+											<ul class="dropdown-menu" aria-labelledby="faqs">
+																				
+								<li><a href="https://pmnrf.gov.in/en/faqs/donation" class="dropdown-item">Donation FAQs</a></li>
+													
+								<li><a href="https://pmnrf.gov.in/en/faqs/pmnrf" class="dropdown-item">PMNRF FAQs</a></li>
+													</ul>
+									</li>
+								
+								<li class="nav-item ">
+					<a href="https://pmnrf.gov.in/en/contact-us" class="nav-link">Contact Us</a>
+									</li>
+											<!--<li><a href="" ></a></li>-->
+            </ul>
+
+			
+			<ul class="nav navbar-nav navbar-right d-block d-sm-none" style="font-size:9pt">
+			  <li class="nav-item"><a href="#content" title="Skip to main content" class="nav-link">Skip to main content </a></li>
+			  <li class="nav-item"><a href="" title="Smaller font size" class="small decrease nav-link">A-</a></li>
+			  <li class="nav-item"><a href="" title="Normal font size" class="medium nav-link">A</a></li>
+			  <li class="nav-item"><a href=""  title="Bigger font size" class="large increase nav-link">A+</a></li>
+			  <li class="nav-item"><select onchange="javascript:window.location.href='https://pmnrf.gov.in/en/web/switchLang/'+this.value;" style="color:#333">
+				  <option value="en" selected="selected">English</option>
+				  <option value="hi" >Hindi</option>
+			  </select></li>
+			</ul>
+			          </div>		  
+          <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container -->
+	 </nav>
+     
+    
+    <section id="content" class="home-section paddingtop-30 paddingbot-60 margintop-90"> 
+    <div class="container marginbot-50">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <div class="wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="section-heading text-center">
+                        <h2 class="h-bold"></h2>
+                    </div>
+                </div>
+            </div>
+
+			<div class="col-lg-12">
+							<div class="text-center">
+
+<i class="fa fa-check-circle" style="font-size:88px;color:SeaGreen"></i>
+<h1 class="text-success">Verify Receipt</h1>
+ </div>
+                <div class="col-md-6 col-lg-offset-3" style="border: 1px solid #eee; box-shadow: 1px 1px 10px #eee; padding: 15px;">
+					<div class="row marginbot-10">
+						<div class="col-lg-6"><strong>Receipt Number </strong></div>
+						<div class="col-lg-6"><span class="receipt">PMNRF/Web/202402081000002</span></div>
+					</div>
+					<div class="row marginbot-10">
+						<div class="col-lg-6"><strong>Donation Date </strong></div>
+						<div class="col-lg-6"><span class="date">08-Feb-2024</span></div>
+					</div>
+					<div class="row marginbot-10">
+						<div class="col-lg-6"> <strong>Transaction Number </strong></div>
+						<div class="col-lg-6"><span class="txnm">202402081000002</span></div>
+					</div>
+					<div class="row marginbot-10">
+						<div class="col-lg-6"><strong>Name </strong></div>
+						<div class="col-lg-6"><span class="fulname">Mr. Pankaj Tukaram Walunj</span></div>
+					</div>
+					<div class="row marginbot-10">
+						<div class="col-lg-6"><strong>Amount </strong></div>
+						<div class="col-lg-6"><span class="amount">&#x20b9;100.00</span></div>
+					</div>
+					<div class="row marginbot-10">
+						<div class="col-lg-6"> <strong>PAN Number </strong></div>
+						<div class="col-lg-6"><span class="amount">AAXXXXXX4A</span></div>
+					</div>
+                </div>				
+				            </div>
+        </div>
+    </div>
+</section>
+<script src="https://pmnrf.gov.in/assets/web/js/jquery.min.js"></script>
+<script src="https://pmnrf.gov.in/assets/web/js/bootstrap.min.js"></script>  
+<script src="https://pmnrf.gov.in/assets/web/js/custom.js"></script>
+<link href="https://pmnrf.gov.in/assets/web/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="https://pmnrf.gov.in/assets/font-awesome/css/all.css" rel="stylesheet" type="text/css" />
+    <link href="https://pmnrf.gov.in/assets/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css">
+    <link href="https://pmnrf.gov.in/assets/web/css/nivo-lightbox.css" rel="stylesheet" />
+ <link href="https://pmnrf.gov.in/assets/web/css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+<link href="https://pmnrf.gov.in/assets/web/css/owl.carousel.css" rel="stylesheet" media="screen" />
+   <link href="https://pmnrf.gov.in/assets/web/css/owl.theme.css" rel="stylesheet" media="screen" />
+    <link href="https://pmnrf.gov.in/assets/web/css/animate.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://pmnrf.gov.in/assets/web/css/style.css" rel="stylesheet">
+
+<!-- boxed bg -->
+    <link id="bodybg" href="https://pmnrf.gov.in/assets/web/bodybg/bg1.css" rel="stylesheet" type="text/css" />
+    <!-- template skin -->
+    <link id="t-colors" href="https://pmnrf.gov.in/assets/web/color/default.css" rel="stylesheet">
+	
+	
+  <script type="text/javascript">
+    $(function(){
+      // Increase Font Size
+      $(".increase").click(function(){ 
+        var currentSize = $('div').css('font-size');
+        var currentSize = parseFloat(currentSize)*1.2;
+        $('div').css('font-size', currentSize);
+
+        return false;
+      });
+
+      // Decrease Font Size
+      $(".decrease").click(function(){
+        var currentFontSize = $('div').css('font-size');
+        var currentSize = $('div').css('font-size');
+        var currentSize = parseFloat(currentSize)*0.8;
+        $('div').css('font-size', currentSize);
+
+        return false;
+      });
+          
+    });
+  </script>
+</div>
+  <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
+  <footer>
+    <div class="sub-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="wow fadeInLeft" data-wow-delay="0.1s">
+              <div class="text-left">
+              <p>© 2024 Prime Minister's Office.</p>
+              </div>
+            </div>
+          </div>
+		  <div class="col-sm-6 col-md-6 col-lg-3">
+            <div class="wow fadeInLeft" data-wow-delay="0.1s">
+              <div class="text-left">
+              <a href="https://pmnrf.gov.in/en/web-information-manager">Web Information Manager</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-6 col-lg-6">
+            <div class="wow fadeInRight" data-wow-delay="0.1s">
+                <div class="text-end" style="font-size:14px;">
+				<img src="https://pmnrf.gov.in/assets/img/nic.png" alt="NIC Logo"  height="34" />
+                    Website developed & hosted by National Informatics Centre <br>Contents provided by Prime Minister's Office                </div>
+            </div>
+          </div>
+        </div>  
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>   
+
+
+</body>
+</html> 
